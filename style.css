@@ -23,9 +23,29 @@ p {
 }
 
 fieldset {
-    border:none;
+    border: none;
 }
 
-input, select, textarea, button {
-   
+#name_style {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+#nome {
+    display: flex;
+}
+
+#sobrenome {
+    display: flex;
+}
+
+#email_style {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+#radio_button {
+    text-align: left;
 }
