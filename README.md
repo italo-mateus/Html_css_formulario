@@ -1,2 +1,2 @@
 # Html_css_formulario
- Um simples formulário feito com html e css
+ Um formulário feito em Html e Css para revisar o básico das tecnologias.
